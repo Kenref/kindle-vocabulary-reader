@@ -1,0 +1,1 @@
+const isDatabaseFile = (file) => {};
